@@ -67,3 +67,12 @@ React/
 ├── customReact/
 └── README.md
 ```
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Git
+- GitHub
