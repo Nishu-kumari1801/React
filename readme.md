@@ -48,3 +48,22 @@ As I continue learning, new projects and concepts will be added regularly.
 - Component Lifecycle
 - Project Structure
 - Reusable Components
+
+## 📂 Repository Structure
+
+```
+React/
+│
+├── 01_basicreact/
+├── 01_vite_project/
+├── 02_counter/
+├── 03_tailwindProps/
+├── 04_bgChanger/
+├── 05_passwordGenerator/
+├── 06_currencyConvertor/
+├── 07_reactRouter/
+├── 08_miniContext/
+├── 09_themeChanger/
+├── customReact/
+└── README.md
+```
