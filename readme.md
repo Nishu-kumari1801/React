@@ -27,3 +27,24 @@ As I continue learning, new projects and concepts will be added regularly.
 - Handle forms and validation
 - Improve project organization
 - Learn deployment practices
+
+## 📚 React Concepts Covered
+
+- JSX
+- Functional Components
+- Props
+- State
+- Event Handling
+- Conditional Rendering
+- Lists & Keys
+- Forms
+- useState
+- useEffect
+- useRef
+- useContext
+- Custom Hooks
+- React Router
+- API Fetching
+- Component Lifecycle
+- Project Structure
+- Reusable Components
