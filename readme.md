@@ -13,3 +13,17 @@ This repository documents my journey of learning React from the basics to advanc
 Instead of only studying theory, I believe in learning by building. Every project here is created to understand a specific concept or solve a real-world problem.
 
 As I continue learning, new projects and concepts will be added regularly.
+
+## 🎯 Learning Objectives
+
+- Understand React fundamentals
+- Master reusable components
+- Learn JSX and rendering
+- Manage state effectively
+- Work with React Hooks
+- Build dynamic user interfaces
+- Fetch and display API data
+- Implement routing
+- Handle forms and validation
+- Improve project organization
+- Learn deployment practices
