@@ -102,6 +102,10 @@ npm run dev
 - Create reusable UI components
 - Build portfolio-ready applications
 
+## 📬 Connect With Me
+
+- GitHub: https://github.com/Nishu-kumari1801
+- LinkedIn: www.linkedin.com/in/nishu-kumari-13a285308
 ## 🤝 Contributions
 
 Suggestions and feedback are always welcome.
