@@ -76,3 +76,14 @@ React/
 - Vite
 - Git
 - GitHub
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/Nishu-kumari1801/React.git
+cd React
+npm install
+npm run dev
+
