@@ -87,3 +87,18 @@ cd React
 npm install
 npm run dev
 
+
+---
+
+# 9. Repository Goals
+
+```md
+## 🌱 Repository Goals
+
+- Build projects consistently
+- Learn React through hands-on practice
+- Improve problem-solving skills
+- Follow clean coding practices
+- Create reusable UI components
+- Build portfolio-ready applications
+
