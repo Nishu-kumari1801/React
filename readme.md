@@ -112,3 +112,4 @@ Suggestions and feedback are always welcome.
 
 If you find improvements or have ideas for new projects, feel free to open an issue or submit a pull request.
 
+Happy Coding! 🚀
